@@ -1,2 +1,5 @@
 *pyc
 venv/*
+*csv
+*xlsx
+data/*
